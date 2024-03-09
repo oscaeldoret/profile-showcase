@@ -75,3 +75,7 @@ To contribute to this project, you need to have:
     
     
 8.  **Wait for PR Review**: Once your PR is submitted, it will be reviewed. If everything looks good, your PR will be merged, and your profile will be displayed on the README page!
+
+| ![Mathew Kamau](static/images/mathewkamau.jpg) | ![George Bush](static/images/bush.jpg) | ![John Otieno](static/images/john-otienoh.jpg) | ![Supriyo Saha](static/images/supriyo.jpg) |
+|---|---|---|---|
+| **Mathew Kamau**<br>Constantly exploring the boundaries of technology and imagination. | **George Bush**<br>A passionate software engineer trying to create a dent through technology. | **Sayak Mukherjee**<br>Engineering Student and a passionate developer. | **Supriyo Saha**<br>An average nerd who loves to mess around with inspect elements. |
