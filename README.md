@@ -18,7 +18,7 @@ To contribute to this project, you need to have:
 
  - **Clone the Repository**: Now, clone the forked repository to your machine. You can do this using the following command:
    ```
-   git clone https://github.com/oscaeldoret/profile-showcase.git`
+   git clone https://github.com/oscaeldoret/profile-showcase.git
 
 -  **Navigate to the Repository**: Change your directory to the cloned repository:
     
