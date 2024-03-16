@@ -37,7 +37,17 @@ To contribute to this project, you need to have:
     - Name the file yourname.jpg/png
     -   You can either drag and drop your image into this folder or use the following command:
         
-    ``` cp /path-to-your-image.jpg static/images/` 
+    ``` cp /path-to-your-image.jpg static/images/`
+
+
+ -  **To resize your image**:
+  -  Choose your image,
+  -   On your browser go to `resizepic.com`
+  - The first page you will get is this "Static/images/First-Step1.png" ![Alt text](/static\ScreenShots\First-Step1.png?raw=true "Resizepic.com First Page")
+  - Tap the choose a file option and navigate to the location of your image i.e ![Alt text](static\ScreenShots\Second-Step.png?raw=true "Resizepic.com Second Page")
+  - Now type in your desired dimensions of your image in the spaces as shown ![Alt text](static\ScreenShots\Third-Step.png?raw=true "Resizepic.com Last Step")
+  - 
+
         
  -  **Add your Profile Data**:
     
